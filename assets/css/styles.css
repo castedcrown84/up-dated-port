@@ -77,6 +77,8 @@ h1{
     
 }
 
+/* Navigation Bar */
+
 .nav-site ul{
 
 flex-direction: column;
@@ -151,6 +153,8 @@ flex-direction: column;
 
 
  }
+
+ /* Portfolio section */
 
  .sectiontwo p {
 
@@ -253,6 +257,7 @@ text-align: center;
 
 }
 
+/* form */
 .form{
 
     display: flex;
@@ -275,7 +280,7 @@ margin: 15px;
 width: 30%;
 border: none;
 outline: none;
-color: lightgray;
+color: black;
 
 
 }
@@ -343,7 +348,7 @@ cursor: pointer;
 
 
 }
-
+/* cards' display */
 .card{
    
    
